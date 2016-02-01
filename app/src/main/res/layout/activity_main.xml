@@ -18,12 +18,12 @@
 
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="150dp"
+        android:layout_height="241dp"
         android:id="@+id/imageView"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:background="#0ded7373" />
+        android:background="#3c4ef3f0" />
 
     <ImageView
         android:layout_width="match_parent"
@@ -31,13 +31,13 @@
         android:id="@+id/imageView2"
         android:layout_below="@+id/imageView"
         android:layout_above="@+id/imageView3"
-        android:background="#96e9d92d" />
+        android:background="#3c06f95b" />
 
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="150dp"
         android:id="@+id/imageView3"
         android:layout_alignParentBottom="true"
-        android:background="#96ebb41a" />
+        android:background="#3c9217d9" />
 
 </RelativeLayout>
